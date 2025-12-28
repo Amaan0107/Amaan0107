@@ -10,7 +10,9 @@ Application Development | Java (17) | SQL/MySQL | Git/GitHub | Backend
 I'm a passionate backend Java developer who loves crafting robust, efficient systems that power real-world applications – from transaction processing and inventory management to secure e-commerce backends.
 
 -🔭 Currently diving deeper into Spring Boot, advanced database design, and building scalable APIs.
+
 -🌱 Always excited to master backend best practices, optimize performance, and solve complex problems with clean code.
+
 -⚡ Fun fact: Nothing beats the thrill of turning everyday ideas  into fully functional, database-driven Java apps that work flawlessly!
 
 ### 🛠️ Tech Stack
