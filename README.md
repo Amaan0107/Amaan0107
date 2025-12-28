@@ -1,8 +1,6 @@
 
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/91fbb000-3b4e-4227-9a37-0d398d861ef9" />
 
-# Hi, I'm Amaan Dilawar! 👋 🚀
-
 Java Developer | Backend Enthusiast | Building cool apps one line at a time
 
 <!-- Optional cute emojis or animation if you want -->
