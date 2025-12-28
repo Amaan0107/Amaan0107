@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1600x400/1e1e2e/ffffff?text=Your+Custom+Banner+Here) <!-- Replace with your banner URL -->
+(https://via.placeholder.com/1600x400/1e1e2e/ffffff?text=Your+Custom+Banner+Here) <!-- Replace with your banner URL -->
 
 # Hi, I'm Amaan Dilawar! 👋 🚀
 
@@ -37,10 +37,6 @@ I'm a Java developer passionate about creating practical applications like trans
 - **java-academy-amaan-dilawar**  
   Collection of Java academy exercises and workbooks covering OOP and core concepts.
 
-### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amaan0107&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan0107&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/your-profile] <!-- Add your link -->
