@@ -12,7 +12,7 @@ I'm a Java developer passionate about creating practical applications like trans
 
 - 🔭 Currently polishing my Spring Boot and database skills
 - 🌱 Exploring full-stack development and APIs
-- ⚡ Fun fact: I love turning real-world ideas (like car dealerships or game stores) into working Java apps!
+- ⚡ Fun fact: I love turning real-world ideas into working Java apps!
 
 ### 🛠️ Tech Stack
 <!-- Simple colored badges – easy and look great on dark theme -->
