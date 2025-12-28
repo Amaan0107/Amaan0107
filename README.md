@@ -3,7 +3,7 @@
 
 Application Development | Java (17) | SQL/MySQL | Git/GitHub | Backend
 
-<img src="https://i.gifer.com/8L7f.gif" width="40px"/> Welcome to my GitHub!
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="60px"/> Welcome to my GitHub!
 
 ### 🌟 About Me
 I'm a passionate backend Java developer who loves crafting robust, efficient systems that power real-world applications – from transaction processing and inventory management to secure e-commerce backends.
