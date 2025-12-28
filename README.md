@@ -39,7 +39,7 @@ I'm a passionate backend Java developer who loves crafting robust, efficient sys
 
 
 ### 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/amaan-dilawar-2b3074383
-- Email: your.email@example.com
+- LinkedIn: [Amaan-Dilawar](https://www.linkedin.com/in/amaan-dilawar)
+- Email: adilawar@my.yearupunited.org
 
 Thanks for stopping by! ⭐ Star my repos if you like them!
