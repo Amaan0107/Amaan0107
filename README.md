@@ -4,14 +4,14 @@
 Application Development | Java (17) | SQL/MySQL | Git/GitHub | Backend
 
 <!-- Optional cute emojis or animation if you want -->
-<img src="https://media1.tenor.com/m/nFywkZ0DS5EAAAAC/glitter-confetti.gif" width="50px"/> Welcome to my GitHub! Welcome to my GitHub!
+<img src="https://i.pinimg.com/originals/c1/1d/05/c11d05415f5ff082abf5155fa6d98e1f.gif" width="50px"/> Welcome to my GitHub!
 
 ### 🌟 About Me
-I'm a Java developer passionate about creating practical applications like transaction systems, inventory management, and e-commerce backends.
+I'm a passionate backend Java developer who loves crafting robust, efficient systems that power real-world applications – from transaction processing and inventory management to secure e-commerce backends.
 
-- 🔭 Currently polishing my Spring Boot and database skills
-- 🌱 Exploring full-stack development and APIs
-- ⚡ Fun fact: I love turning real-world ideas into working Java apps!
+-🔭 Currently diving deeper into Spring Boot, advanced database design, and building scalable APIs
+-🌱 Always excited to master backend best practices, optimize performance, and solve complex problems with clean code
+-⚡ Fun fact: Nothing beats the thrill of turning everyday ideas  into fully functional, database-driven Java apps that work flawlessly!
 
 ### 🛠️ Tech Stack
 <!-- Simple colored badges – easy and look great on dark theme -->
