@@ -1,4 +1,5 @@
-(https://via.placeholder.com/1600x400/1e1e2e/ffffff?text=Your+Custom+Banner+Here) <!-- Replace with your banner URL -->
+
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/91fbb000-3b4e-4227-9a37-0d398d861ef9" />
 
 # Hi, I'm Amaan Dilawar! 👋 🚀
 
