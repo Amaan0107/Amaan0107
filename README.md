@@ -3,8 +3,7 @@
 
 Application Development | Java (17) | SQL/MySQL | Git/GitHub | Backend
 
-<!-- Optional cute emojis or animation if you want -->
-<img src="https://media.tenor.com/images/some-direct-gold-star-gif-url.gif" width="50px"/> Welcome to my GitHub!
+<img src="https://i.gifer.com/8L7f.gif" width="50px"/> Welcome to my GitHub!
 
 ### 🌟 About Me
 I'm a passionate backend Java developer who loves crafting robust, efficient systems that power real-world applications – from transaction processing and inventory management to secure e-commerce backends.
