@@ -1,10 +1,10 @@
 
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/91fbb000-3b4e-4227-9a37-0d398d861ef9" />
 
-Java Developer | Backend Enthusiast | Building cool apps one line at a time
+Application Development | Java (17) | SQL/MySQL | Git/GitHub | Backend
 
 <!-- Optional cute emojis or animation if you want -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub!
+<img src="https://media1.tenor.com/m/nFywkZ0DS5EAAAAC/glitter-confetti.gif" width="50px"/> Welcome to my GitHub! Welcome to my GitHub!
 
 ### 🌟 About Me
 I'm a Java developer passionate about creating practical applications like transaction systems, inventory management, and e-commerce backends.
@@ -37,7 +37,7 @@ I'm a Java developer passionate about creating practical applications like trans
 
 
 ### 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/your-profile] <!-- Add your link -->
+- LinkedIn: www.linkedin.com/in/amaan-dilawar-2b3074383
 - Email: your.email@example.com
 
 Thanks for stopping by! ⭐ Star my repos if you like them!
